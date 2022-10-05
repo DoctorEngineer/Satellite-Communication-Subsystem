@@ -1,6 +1,6 @@
-# Satellite-Communication-Subsystem
+# Satellite Communication Subsystem
 ___
-One of the main requirements of any satellite is to communicate with the ground station reliably by sending and receiving data. A design and a simulation of the communication system between the Ground Control Station (GCS) and the CubeSat for transmitting and receiving the telemetry data are introduced. Two different protocols are used for communication which are: Simple Serial Protocol (SSP) for the physical connections and AX.25 protocol for radio transmission. Furthermore, the error of the received data is checked using the Cyclic Redundancy Check (CRC) technique. The system is implemented using LabVIEW to verify the communication between CubeSat and GCS with Arduino.
+One of the main requirements of any satellite is to communicate with the ground station reliably by sending and receiving data. A design and a simulation of the communication system between the Ground Control Station (GCS) and the CubeSat for transmitting and receiving the telemetry data are introduced. Two different protocols are used for communication which are: Simple Serial Protocol (SSP) for the physical connections and AX.25 protocol for radio transmission. Furthermore, the error of the received data is checked using the Cyclic Redundancy Check (CRC) technique. The system is implemented using LabVIEW to verify the communication between the CubeSat and GCS with Arduino.
 
 ## What is AX.25?
 ____
