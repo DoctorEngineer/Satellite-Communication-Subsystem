@@ -9,6 +9,7 @@ The AX.25 protocol is used to ensure link connectivity between the communicating
 ## What is SSP?
 ___
 Is a simple protocol intended for master slave communication on single-master serial buses, especially within small spacecraft.
+![Screenshot_1531](https://user-images.githubusercontent.com/45265352/193960016-000287dd-85e1-4f95-b410-e096e7b2d079.png)
 
 ## RF Transceiver
 ___
